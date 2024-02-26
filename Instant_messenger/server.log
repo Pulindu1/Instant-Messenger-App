@@ -1,0 +1,11 @@
+2024-01-16 00:56:54,041 - INFO - pudz:  has joined server from ('127.0.0.1', 63628) 
+
+2024-01-16 00:57:20,830 - INFO - Listing files: ['file2.txt', 'file3.txt', 'file1.txt']
+2024-01-16 00:57:53,350 - INFO - pudz:  has joined server from ('127.0.0.1', 63634) 
+
+2024-01-16 00:57:53,350 - INFO - pudz:  ('127.0.0.1', 63628) disconnected: [Errno 54] Connection reset by peer
+2024-01-16 00:58:29,936 - INFO - saki:  has joined server from ('127.0.0.1', 63649) 
+
+2024-01-16 00:58:29,937 - INFO - pudz:  ('127.0.0.1', 63634) disconnected: [Errno 54] Connection reset by peer
+2024-01-16 00:58:48,469 - INFO - saki:  ('127.0.0.1', 63649) left server 
+
